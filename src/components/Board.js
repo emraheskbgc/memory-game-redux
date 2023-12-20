@@ -18,7 +18,7 @@ function Board() {
       <div>
         <h1 className="text-center mt-4 text-white fw-bold">
           Memory Game With Cards
-          <a href="https://github.com/emraheskbgc" target="_blank">
+          <a href="https://github.com/emraheskbgc" target="_blank" rel="noreferrer"> 
             <img
               className="img img-fluid ms-3 mb-1 icon"
               src="./github.png"
@@ -26,7 +26,7 @@ function Board() {
               width={32}
             />
           </a>
-          <a href="https://www.linkedin.com/in/emraheskiba%C4%9Fc%C4%B1/" target="_blank">
+          <a href="https://www.linkedin.com/in/emraheskiba%C4%9Fc%C4%B1/" rel="noreferrer" target="_blank">
           <img
             className="img img-fluid ms-3 mb-1 icon"
             src="./linkedin.png"
