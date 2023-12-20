@@ -17,7 +17,7 @@ function Board() {
     <>
       <div>
         <h1 className="text-center mt-4 text-white fw-bold">
-          Memory Game With Cards
+          Memory Card Game
           <a href="https://github.com/emraheskbgc" target="_blank" rel="noreferrer"> 
             <img
               className="img img-fluid ms-3 mb-1 icon"

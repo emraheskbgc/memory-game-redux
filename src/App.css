@@ -116,6 +116,12 @@ body {
   .memCard {
     height: 90px;
   }
+  .bgImg{
+    width: 90%;
+    height: 90px;
+    margin-bottom: 10px;
+  }
+ 
   
 }
 
@@ -124,5 +130,6 @@ body {
   .memCard {
     height: 120px;
   }
+ 
   
 }
